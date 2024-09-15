@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Kateryna Pantiukh 🇺🇦
 - 🦠 I do human gut microbiome research at [Estonian Biobank](biobank.ee) and [Institute of Genomics of the University of Tartu](https://genomics.ut.ee/en)
 - 🧬 I am a co-founder of the [SciBear](https://sci-bear.com) company. 👀 If you need microbiome analysis write to pantiukh@gmail.com
-- 🌱 I’m currently learning ML algorithms and trying to incorporate them into my lab processes.
 - 📫 You can reach me by my mail pantiukh@gmail.com or pantiukh@ut.ee
+
+### My projects
+| Title | Status | Repository | Book | 
+|----------|----------|----------|----------|
+| Metagenome-assembled genomes of Estonian Microbiome cohort reveal novel species and their links with prevalent diseases | [preprint](https://www.biorxiv.org/content/10.1101/2024.07.06.602324v1) | [repo]() | book |
+
+
 
 <!---
 Chartiza/Chartiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
