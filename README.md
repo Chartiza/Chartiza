@@ -6,7 +6,7 @@
 ### My projects
 | Title | Status | Repository | Book | 
 |----------|----------|----------|----------|
-| Metagenome-assembled genomes of Estonian Microbiome cohort reveal novel species and their links with prevalent diseases | [preprint](https://www.biorxiv.org/content/10.1101/2024.07.06.602324v1) | [repo]() | book |
+| Metagenome-assembled genomes of Estonian Microbiome cohort reveal novel species and their links with prevalent diseases | [preprint](https://www.biorxiv.org/content/10.1101/2024.07.06.602324v1) | [repo](https://github.com/Chartiza/EstMB_MAGs_db_paper) | book |
 
 
 
