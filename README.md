@@ -2,6 +2,10 @@
 - 🦠 I do human gut microbiome research at [Estonian Biobank](biobank.ee) and [Institute of Genomics of the University of Tartu](https://genomics.ut.ee/en)
 - 📫 You can reach me by my mail pantiukh@gmail.com or pantiukh@ut.ee
 
+### My thesis
+From sequences to knowledge: challenges and opportunities of genome-resolved metagenomics 
+[download pdf](https://ester.ester.ee/search~S58*est/X?searchtype=X&searcharg=pantiukh&searchscope=1&SORT=DZ&extended=0&SUBMIT=OTSI)
+
 ### Projects
 | Title | Status | Repository |  
 |----------|----------|----------|
