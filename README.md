@@ -6,6 +6,8 @@
 From sequences to knowledge: challenges and opportunities of genome-resolved metagenomics 
 [download pdf](https://ester.ester.ee/search~S58*est/X?searchtype=X&searcharg=pantiukh&searchscope=1&SORT=DZ&extended=0&SUBMIT=OTSI)
 
+Defended: August 24, 2006
+
 ### Projects
 | Title | Status | Repository |  
 |----------|----------|----------|
