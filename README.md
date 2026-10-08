@@ -5,9 +5,9 @@
 ### Projects
 | Title | Status | Repository |  
 |----------|----------|----------|
-| Metagenome-assembled genomes from a population-based cohort uncover novel gut species and within-species diversity, revealing prevalent disease associations | [paper]([https://www.biorxiv.org/content/10.1101/2024.07.06.602324v1](https://journals.asm.org/doi/10.1128/msystems.00114-26) | [code](https://github.com/Chartiza/EstMB_MAGs_db_paper) | 
-| Human gut archaea collection from Estonian population | [preprint](https://www.biorxiv.org/content/10.1101/2024.07.06.602324v1) | [code](https://github.com/Chartiza/ArchaeaDraftGenomes) | 
-| Measuring microbiome - computability of NovaSeq and MGI sequencing platforms | [preprint] | [code](https://github.com/Chartiza/2024_Illumina_vs_BGI) | 
+| Metagenome-assembled genomes from a population-based cohort uncover novel gut species and within-species diversity, revealing prevalent disease associations | [paper](https://journals.asm.org/doi/10.1128/msystems.00114-26) | [code](https://github.com/Chartiza/EstMB_MAGs_db_paper) | 
+| Human gut archaea collection from Estonian population | [paper](https://www.nature.com/articles/s41597-026-06742-1) | [code](https://github.com/Chartiza/ArchaeaDraftGenomes) | 
+| A large-scale comparative metagenomic analysis of short-read sequencing platforms indicates high taxonomic concordance and functional analysis challenge | [paper](https://journals.asm.org/doi/10.1128/msystems.01714-25) | [code](https://github.com/Chartiza/2024_Illumina_vs_BGI) | 
 
 ### Posters & Presentations
 You can find my Posters and selected Presentations [here](https://github.com/Chartiza/Posters)
